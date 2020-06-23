@@ -5,8 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:AutoUpdate"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-
+        Title="MainWindow" Height="300" Width="300" WindowStartupLocation="CenterScreen">
+    <Grid Background="DarkGray">
+        <StackPanel VerticalAlignment="Center">
+            <Button Height="40" Width="150" Content="Get local version" Click="btnGetVersion_Click"></Button>
+            <Button Height="40" Width="150" Content="UPDATE" Click="btnUpdate_Click"></Button>
+            <Button Height="40" Width="150" Content="Create XML" Click="btnCreateXML_Click"></Button>
+            <Button Height="40" Width="150" Content="Compare XML" Click="btnCompareXML_Click"></Button>
+        </StackPanel>
     </Grid>
 </Window>

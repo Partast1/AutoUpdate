@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\asdf\\.nuget\\packages\\": {}
+    "C:\\Users\\anto6789\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asdf\\source\\repos\\AutoUpdate\\AutoUpdate.csproj",
+      "projectUniqueName": "C:\\Users\\anto6789\\Desktop\\SKP\\AutoUpdate\\AutoUpdate.csproj",
       "projectName": "AutoUpdate",
-      "projectPath": "C:\\Users\\asdf\\source\\repos\\AutoUpdate\\AutoUpdate.csproj",
-      "packagesPath": "C:\\Users\\asdf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asdf\\source\\repos\\AutoUpdate\\obj\\",
+      "projectPath": "C:\\Users\\anto6789\\Desktop\\SKP\\AutoUpdate\\AutoUpdate.csproj",
+      "packagesPath": "C:\\Users\\anto6789\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\anto6789\\Desktop\\SKP\\AutoUpdate\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\asdf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\anto6789\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

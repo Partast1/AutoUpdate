@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<folder path="AutoUpdate\" ID="1">
+  <file path="AutoUpdate\.gitattributes" ID="1" />
+  <file path="AutoUpdate\App.xaml" ID="1" />
+  <file path="AutoUpdate\App.xaml.cs" ID="1" />
+  <file path="AutoUpdate\AssemblyInfo.cs" ID="1" />
+  <file path="AutoUpdate\AutoUpdate.csproj" ID="1" />
+  <file path="AutoUpdate\AutoUpdate.csproj.user" ID="1" />
+  <file path="AutoUpdate\AutoUpdate.sln" ID="1" />
+  <file path="AutoUpdate\MainWindow.xaml" ID="1" />
+  <file path="AutoUpdate\MainWindow.xaml.cs" ID="1" />
+  <file path="AutoUpdate\XmlHandler.cs" ID="1" />
+  <folder path="AutoUpdate\.git" ID="1">
+    <file path="AutoUpdate\.git\config" ID="1" />
+    <file path="AutoUpdate\.git\description" ID="1" />
+    <file path="AutoUpdate\.git\HEAD" ID="1" />
+    <file path="AutoUpdate\.git\index" ID="1" />
+    <file path="AutoUpdate\.git\packed-refs" ID="1" />
+    <folder path="AutoUpdate\.git\hooks" ID="1">
+      <file path="AutoUpdate\.git\hooks\applypatch-msg.sample" ID="1" />
+      <file path="AutoUpdate\.git\hooks\commit-msg.sample" ID="1" />
+      <file path="AutoUpdate\.git\hooks\fsmonitor-watchman.sample" ID="1" />
+      <file path="AutoUpdate\.git\hooks\post-update.sample" ID="1" />
+      <file path="AutoUpdate\.git\hooks\pre-applypatch.sample" ID="1" />
+      <file path="AutoUpdate\.git\hooks\pre-commit.sample" ID="1" />
+      <file path="AutoUpdate\.git\hooks\pre-merge-commit.sample" ID="1" />
+      <file path="AutoUpdate\.git\hooks\pre-push.sample" ID="1" />
+      <file path="AutoUpdate\.git\hooks\pre-rebase.sample" ID="1" />
+      <file path="AutoUpdate\.git\hooks\pre-receive.sample" ID="1" />
+      <file path="AutoUpdate\.git\hooks\prepare-commit-msg.sample" ID="1" />
+      <file path="AutoUpdate\.git\hooks\update.sample" ID="1" />
+    </folder>
+    <folder path="AutoUpdate\.git\info" ID="1">
+      <file path="AutoUpdate\.git\info\exclude" ID="1" />
+    </folder>
+    <folder path="AutoUpdate\.git\logs" ID="1">
+      <file path="AutoUpdate\.git\logs\HEAD" ID="1" />
+      <folder path="AutoUpdate\.git\logs\refs" ID="1">
+        <folder path="AutoUpdate\.git\logs\refs\heads" ID="1">
+          <file path="AutoUpdate\.git\logs\refs\heads\master" ID="1" />
+        </folder>
+        <folder path="AutoUpdate\.git\logs\refs\remotes" ID="1">
+          <folder path="AutoUpdate\.git\logs\refs\remotes\origin" ID="1">
+            <file path="AutoUpdate\.git\logs\refs\remotes\origin\HEAD" ID="1" />
+          </folder>
+        </folder>
+      </folder>
+    </folder>
+    <folder path="AutoUpdate\.git\objects" ID="1">
+      <folder path="AutoUpdate\.git\objects\03" ID="1">
+        <file path="AutoUpdate\.git\objects\03\ff4c4724df66961c2236ed80ead311a3e7fb75" ID="1" />
+      </folder>
+      <folder path="AutoUpdate\.git\objects\0b" ID="1">
+        <file path="AutoUpdate\.git\objects\0b\867bb11010db99ce35a5057518cd07cb10c1a9" ID="1" />
+        <file path="AutoUpdate\.git\objects\0b\f6ef34ae02b7fb6836a3ae48d77d435cd838b2" ID="1" />
+      </folder>
+      <folder path="AutoUpdate\.git\objects\16" ID="1">
+        <file path="AutoUpdate\.git\objects\16\4803394ddce68f6f7741c2a48fc3c4e2ae55de" ID="1" />
+      </folder>
+      <folder path="AutoUpdate\.git\objects\1d" ID="1">
+        <file path="AutoUpdate\.git\objects\1d\0156a2180a7c073ac04cf8deb254b035fea3a1" ID="1" />
+      </folder>
+      <folder path="AutoUpdate\.git\objects\37" ID="1">
+        <file path="AutoUpdate\.git\objects\37\9fb3a6db0aa394aa89cc760ca08e22414b36fb" ID="1" />
+      </folder>
+      <folder path="AutoUpdate\.git\objects\38" ID="1">
+        <file path="AutoUpdate\.git\objects\38\87ebae7056e7041fcc988d4d5c509370b0f836" ID="1" />
+      </folder>
+      <folder path="AutoUpdate\.git\objects\41" ID="1">
+        <file path="AutoUpdate\.git\objects\41\70d20f6914a0d30e984c055248f08d636289fc" ID="1" />
+      </folder>
+      <folder path="AutoUpdate\.git\objects\48" ID="1">
+        <file path="AutoUpdate\.git\objects\48\f01d18376ebd18fe2d036ae60b633a451e7f6f" ID="1" />
+      </folder>
+      <folder path="AutoUpdate\.git\objects\50" ID="1">
+        <file path="AutoUpdate\.git\objects\50\c806a8bbc6491505aa1c3e8682cbe3c038733b" ID="1" />
+      </folder>
+      <folder path="AutoUpdate\.git\objects\53" ID="1">
+        <file path="AutoUpdate\.git\objects\53\cfaa19b16f3769b2bfc33db3b5c0053c16fdba" ID="1" />
+      </folder>
+      <folder path="AutoUpdate\.git\objects\57" ID="1">
+        <file path="AutoUpdate\.git\objects\57\44516c3cecbf64e583b7c64335628057eee698" ID="1" />
+      </folder>
+      <folder path="AutoUpdate\.git\objects\64" ID="1">
+        <file path="AutoUpdate\.git\objects\64\4b0a6fd0475f9a0a9c31f1ad279b321cde0085" ID="1" />
+      </folder>
+      <folder path="AutoUpdate\.git\objects\69" ID="1">
+        <file path="AutoUpdate\.git\objects\69\7676b6c0f1d4efb5b6661bec29c5819ef4ac2a" ID="1" />
+      </folder>
+      <folder path="AutoUpdate\.git\objects\6c" ID="1">
+        <file path="AutoUpdate\.git\objects\6c\68d0eed95b26b99446f604bce70082963d4983" ID="1" />
+      </folder>
+      <folder path="AutoUpdate\.git\objects\71" ID="1">
+        <file path="AutoUpdate\.git\objects\71\968865fe3928bed90b36ce08f617369db69089" ID="1" />
+      </folder>
+      <folder path="AutoUpdate\.git\objects\77" ID="1">
+        <file path="AutoUpdate\.git\objects\77\17be2fe3cf5fa21ef37d9d837982df48a4dc4f" ID="1" />
+      </folder>
+      <folder path="AutoUpdate\.git\objects\80" ID="1">
+        <file path="AutoUpdate\.git\objects\80\e6af437b57febf042edb239c49a55ee7e296b2" ID="1" />
+        <file path="AutoUpdate\.git\objects\80\fd91d623741bb3629c88bdf160b175bbb43a56" ID="1" />
+      </folder>
+      <folder path="AutoUpdate\.git\objects\87" ID="1">
+        <file path="AutoUpdate\.git\objects\87\844641670bf1ed09aa7e20124e771f74b6d279" ID="1" />
+      </folder>
+      <folder path="AutoUpdate\.git\objects\8b" ID="1">
+        <file path="AutoUpdate\.git\objects\8b\5504ecfbb1bfbb008957f80ac70f8fcdab91dd" ID="1" />
+      </folder>
+      <folder path="AutoUpdate\.git\objects\91" ID="1">
+        <file path="AutoUpdate\.git\objects\91\d23de84e3ef276385dee9ee074bf11b087b215" ID="1" />
+      </folder>
+      <folder path="AutoUpdate\.git\objects\9e" ID="1">
+        <file path="AutoUpdate\.git\objects\9e\2d530392bd7c234cc4e069b068224f332d84d8" ID="1" />
+      </folder>
+      <folder path="AutoUpdate\.git\objects\b3" ID="1">
+        <file path="AutoUpdate\.git\objects\b3\069797c2b59425e62d307b89f0f98cf1cdde95" ID="1" />
+      </folder>
+      <folder path="AutoUpdate\.git\objects\b6" ID="1">
+        <file path="AutoUpdate\.git\objects\b6\b9ddbf41bece265b54141e224b8c41b920165c" ID="1" />
+      </folder>
+      <folder path="AutoUpdate\.git\objects\bb" ID="1">
+        <file path="AutoUpdate\.git\objects\bb\c9753481ea52430a6c23b48f4db37f122efe51" ID="1" />
+      </folder>
+      <folder path="AutoUpdate\.git\objects\be" ID="1">
+        <file path="AutoUpdate\.git\objects\be\f1290f1f99f1660909305714b6813a693cffc7" ID="1" />
+      </folder>
+      <folder path="AutoUpdate\.git\objects\c5" ID="1">
+        <file path="AutoUpdate\.git\objects\c5\61e3f1d7e263381ada53d14a82348fbe2f9540" ID="1" />
+      </folder>
+      <folder path="AutoUpdate\.git\objects\d5" ID="1">
+        <file path="AutoUpdate\.git\objects\d5\ec5739262f340028eaf36d5e25b2a2ed475160" ID="1" />
+      </folder>
+      <folder path="AutoUpdate\.git\objects\df" ID="1">
+        <file path="AutoUpdate\.git\objects\df\e0770424b2a19faf507a501ebfc23be8f54e7b" ID="1" />
+      </folder>
+      <folder path="AutoUpdate\.git\objects\eb" ID="1">
+        <file path="AutoUpdate\.git\objects\eb\3ff64155c35eb62d39143fb9aad92a8360bfc4" ID="1" />
+      </folder>
+      <folder path="AutoUpdate\.git\objects\f0" ID="1">
+        <file path="AutoUpdate\.git\objects\f0\f9f49ebd980260c4991d27577787352fde2ec3" ID="1" />
+      </folder>
+      <folder path="AutoUpdate\.git\objects\info" ID="1" />
+      <folder path="AutoUpdate\.git\objects\pack" ID="1" />
+    </folder>
+    <folder path="AutoUpdate\.git\refs" ID="1">
+      <folder path="AutoUpdate\.git\refs\heads" ID="1">
+        <file path="AutoUpdate\.git\refs\heads\master" ID="1" />
+      </folder>
+      <folder path="AutoUpdate\.git\refs\remotes" ID="1">
+        <folder path="AutoUpdate\.git\refs\remotes\origin" ID="1">
+          <file path="AutoUpdate\.git\refs\remotes\origin\HEAD" ID="1" />
+        </folder>
+      </folder>
+      <folder path="AutoUpdate\.git\refs\tags" ID="1" />
+    </folder>
+  </folder>
+  <folder path="AutoUpdate\.vs" ID="1">
+    <file path="AutoUpdate\.vs\slnx.sqlite" ID="1" />
+    <file path="AutoUpdate\.vs\VSWorkspaceState.json" ID="1" />
+    <folder path="AutoUpdate\.vs\AutoUpdate" ID="1">
+      <folder path="AutoUpdate\.vs\AutoUpdate\DesignTimeBuild" ID="1">
+        <file path="AutoUpdate\.vs\AutoUpdate\DesignTimeBuild\.dtbcache.v2" ID="1" />
+      </folder>
+      <folder path="AutoUpdate\.vs\AutoUpdate\v16" ID="1">
+        <file path="AutoUpdate\.vs\AutoUpdate\v16\.suo" ID="1" />
+      </folder>
+    </folder>
+  </folder>
+  <folder path="AutoUpdate\bin" ID="1">
+    <folder path="AutoUpdate\bin\Debug" ID="1">
+      <folder path="AutoUpdate\bin\Debug\netcoreapp3.1" ID="1">
+        <file path="AutoUpdate\bin\Debug\netcoreapp3.1\AutoUpdate.deps.json" ID="1" />
+        <file path="AutoUpdate\bin\Debug\netcoreapp3.1\AutoUpdate.dll" ID="1" />
+        <file path="AutoUpdate\bin\Debug\netcoreapp3.1\AutoUpdate.exe" ID="1" />
+        <file path="AutoUpdate\bin\Debug\netcoreapp3.1\AutoUpdate.pdb" ID="1" />
+        <file path="AutoUpdate\bin\Debug\netcoreapp3.1\AutoUpdate.runtimeconfig.dev.json" ID="1" />
+        <file path="AutoUpdate\bin\Debug\netcoreapp3.1\AutoUpdate.runtimeconfig.json" ID="1" />
+      </folder>
+    </folder>
+  </folder>
+  <folder path="AutoUpdate\obj" ID="1">
+    <file path="AutoUpdate\obj\AutoUpdate.csproj.nuget.dgspec.json" ID="1" />
+    <file path="AutoUpdate\obj\AutoUpdate.csproj.nuget.g.props" ID="1" />
+    <file path="AutoUpdate\obj\AutoUpdate.csproj.nuget.g.targets" ID="1" />
+    <file path="AutoUpdate\obj\project.assets.json" ID="1" />
+    <file path="AutoUpdate\obj\project.nuget.cache" ID="1" />
+    <folder path="AutoUpdate\obj\Debug" ID="1">
+      <folder path="AutoUpdate\obj\Debug\netcoreapp3.1" ID="1">
+        <file path="AutoUpdate\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" ID="1" />
+        <file path="AutoUpdate\obj\Debug\netcoreapp3.1\App.g.cs" ID="1" />
+        <file path="AutoUpdate\obj\Debug\netcoreapp3.1\App.g.i.cs" ID="1" />
+        <file path="AutoUpdate\obj\Debug\netcoreapp3.1\AutoUpdate.AssemblyInfo.cs" ID="1" />
+        <file path="AutoUpdate\obj\Debug\netcoreapp3.1\AutoUpdate.AssemblyInfoInputs.cache" ID="1" />
+        <file path="AutoUpdate\obj\Debug\netcoreapp3.1\AutoUpdate.assets.cache" ID="1" />
+        <file path="AutoUpdate\obj\Debug\netcoreapp3.1\AutoUpdate.csproj.CoreCompileInputs.cache" ID="1" />
+        <file path="AutoUpdate\obj\Debug\netcoreapp3.1\AutoUpdate.csproj.FileListAbsolute.txt" ID="1" />
+        <file path="AutoUpdate\obj\Debug\netcoreapp3.1\AutoUpdate.csprojAssemblyReference.cache" ID="1" />
+        <file path="AutoUpdate\obj\Debug\netcoreapp3.1\AutoUpdate.designer.deps.json" ID="1" />
+        <file path="AutoUpdate\obj\Debug\netcoreapp3.1\AutoUpdate.designer.runtimeconfig.json" ID="1" />
+        <file path="AutoUpdate\obj\Debug\netcoreapp3.1\AutoUpdate.dll" ID="1" />
+        <file path="AutoUpdate\obj\Debug\netcoreapp3.1\AutoUpdate.exe" ID="1" />
+        <file path="AutoUpdate\obj\Debug\netcoreapp3.1\AutoUpdate.g.resources" ID="1" />
+        <file path="AutoUpdate\obj\Debug\netcoreapp3.1\AutoUpdate.genruntimeconfig.cache" ID="1" />
+        <file path="AutoUpdate\obj\Debug\netcoreapp3.1\AutoUpdate.pdb" ID="1" />
+        <file path="AutoUpdate\obj\Debug\netcoreapp3.1\AutoUpdate_MarkupCompile.cache" ID="1" />
+        <file path="AutoUpdate\obj\Debug\netcoreapp3.1\AutoUpdate_MarkupCompile.i.cache" ID="1" />
+        <file path="AutoUpdate\obj\Debug\netcoreapp3.1\AutoUpdate_MarkupCompile.i.lref" ID="1" />
+        <file path="AutoUpdate\obj\Debug\netcoreapp3.1\AutoUpdate_MarkupCompile.lref" ID="1" />
+        <file path="AutoUpdate\obj\Debug\netcoreapp3.1\MainWindow.baml" ID="1" />
+        <file path="AutoUpdate\obj\Debug\netcoreapp3.1\MainWindow.g.cs" ID="1" />
+        <file path="AutoUpdate\obj\Debug\netcoreapp3.1\MainWindow.g.i.cs" ID="1" />
+      </folder>
+    </folder>
+  </folder>
+</folder>
